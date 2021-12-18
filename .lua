@@ -1,8 +1,8 @@
 --[[ Lua --]] 
-local version, name, project;
+local version, name;
 
 name = "lua_playground";
 version = nil;
-project = nil;
+
 
 print(name)
