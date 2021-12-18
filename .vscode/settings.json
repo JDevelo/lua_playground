@@ -1,0 +1,9 @@
+{
+    "Lua.diagnostics.globals": [
+        "myString"
+    ],
+    "Lua.diagnostics.disable": [
+        "unused-function",
+        "discard-returns"
+    ]
+}
